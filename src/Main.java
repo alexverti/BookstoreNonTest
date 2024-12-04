@@ -8,7 +8,10 @@ public class Main {
 
         // Добавление книг в магазин
         store.addBook("Java Programming", 500);
+        store.addBook("Java Programming", 500);
         store.addBook("Effective Java", 600);
+        store.addBook("Effective Java", 600);
+        store.addBook("Head First Java", 450);
         store.addBook("Head First Java", 450);
 
         // Регистрация пользователя
